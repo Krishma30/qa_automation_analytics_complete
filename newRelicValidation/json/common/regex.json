@@ -1,0 +1,18 @@
+{
+	"profiles": [{
+			"key": "stringandspace",
+			"description": "String value not null",
+			"values" : "^[a-zA-Z\\s]+$"
+		},
+		{
+            "key": "stringonly",
+			"description": "String value can be null",
+			"values" : ""
+		},
+		{
+            "key": "numberonly",
+			"description": "Int value can be null",
+			"values" : "^[0-9]+$"
+		}
+	]
+}

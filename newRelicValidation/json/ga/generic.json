@@ -1,0 +1,130 @@
+{
+	"profiles": [{
+            "key": "Link Click",
+            "values":[
+                {
+                    "name":"cd1",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"z",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"cd3",
+                    "validationtype":"exact",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"cd2",
+                    "validationtype":"exact",
+                    "validationvalue":"stringnotnull"
+                }
+               
+            ],
+            "samppledata":{
+                
+                    "_s": "299",
+                    "_u": "SGCAgUIr~",
+                    "_v": "j38",
+                    "a": "95460665",
+                    "cd1": "Brand Site",
+                    "cd16": "e03c98f5-8aed-4e04-94b8-b1d8b1251513",
+                    "cd17": "Lynx Gold  Shower & Shave Foam",
+                    "cd18": "axe",
+                    "cd2": "lynx",
+                    "cd24": "1",
+                    "cd3": "Axe",
+                    "cd31": "sectionNavigationV2",
+                    "cd35": "sectionNavTypeA-B",
+                    "cd37": "https://www.lynxformen.com/uk/home.html",
+                    "cd4": "Personal Care",
+                    "cd44": "No",
+                    "cd5": "UK",
+                    "cd6": "Digital 2.0",
+                    "cd7": "Home page",
+                    "cd75": "default",
+                    "cd8": "Home",
+                    "cg1": "Home",
+                    "cg2": "Home page",
+                    "cid": "1273152580.1526933779",
+                    "de": "UTF-8",
+                    "dl": "https://www.lynxformen.com/uk/home.html",
+                    "dt": "Lynx: Men\"s Grooming, Lifestyle and Style Tips & Hacks | Lynx",
+                    "ea": "Link Click",
+                    "ec": "Custom",
+                    "el": "sectionNavigationV2 - Deodorant & Antiperspirant - https://www.lynxformen.com/uk/products/deodorant-antiperspirant.html",
+                    "ev": "1",
+                    "https://www.google-analytics.com/collect?v": "1",
+                    "je": "0",
+                    "jid": "",
+                    "pa": "click",
+                    "pal": "Home",
+                    "pr1ca": "",
+                    "pr1id": "e03c98f5-8aed-4e04-94b8-b1d8b1251513",
+                    "pr1nm": "Lynx Gold  Shower & Shave Foam",
+                    "pr2ca": "",
+                    "pr2id": "e03c98f5-8aed-4e04-94b8-b1d8b1251513",
+                    "pr2nm": "Lynx Gold  Shower & Shave Foam",
+                    "sd": "24-bit",
+                    "sr": "1440x900",
+                    "t": "event",
+                    "tid": "UA-57712264-1",
+                    "ul": "en-us",
+                    "vp": "800x600",
+                    "z": "404358138"
+            }
+            
+        },
+        {
+            "key": "ProductClick",
+            "values":[
+                {
+                    "name":"cd1",
+                    "validationtype":"regex",
+                    "validationvalue":"stringandspace"
+                },
+                {
+                    "name":"z",
+                    "validationtype":"numberOnly",
+                    "validationvalue":"numberOnly"
+                },
+                {
+                    "name":"cd3",
+                    "validationtype":"exact",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"cd2",
+                    "validationtype":"regex",
+                    "validationvalue":"stringandspace"
+                }
+               
+            ]
+        },
+        
+        {
+            "key": "RelatedArticle",
+            "values":[
+                {
+                    "name":"cd1",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"z",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"cd3",
+                    "validationtype":"exact",
+                    "validationvalue":"stringnotnull"
+                }
+               
+            ]
+        }
+	]
+}

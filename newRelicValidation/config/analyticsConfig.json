@@ -1,0 +1,84 @@
+{
+    "profiles":
+            [
+            {
+                "country": "Netherlands",
+                "description": "Europe Without UK Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-e6f3cb8e21ce705a07142f5e5bfa0ac4edfab9e4.js"
+            },
+            {
+                "country": "Germany",
+                "description": "Europe Without UK Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-e6f3cb8e21ce705a07142f5e5bfa0ac4edfab9e4.js "
+            },
+            {
+                "country": "Brazil",
+                "description": "LATAM Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-26b59bbe7259ca97936e12cdf46f6f49f74c9cd5.js"
+            },
+            {
+                "country": "Colombia",
+                "description": "LATAM Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-26b59bbe7259ca97936e12cdf46f6f49f74c9cd5.js"
+            },
+            {
+                "country": "US",
+                "description": "NA Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-deac3718fb4e421fa7fd3aa48f9db24c264ce15c.js"
+            },
+            {
+                "country": "Mexico",
+                "description": "NA Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-deac3718fb4e421fa7fd3aa48f9db24c264ce15c.js"
+            },
+            {
+                "country": "UK",
+                "description": "United Kingdom Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-e75a786a8b9502c266b6a7c79583be8f575f1724.js"
+            },
+            {
+                "country": "India",
+                "description": "United Kingdom Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            },
+            {
+                "country": "Indonesia",
+                "description": "APAC & Africa Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            },
+            {
+                "country": "Philippines",
+                "description": "APAC & Africa Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            },
+            {
+                "country": "South Africa",
+                "description": "APAC & Africa Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            },
+            {
+                "country": "Vietnam",
+                "description": "APAC & Africa Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            },
+            {
+                "country": "Thailand",
+                "description": "APAC & Africa Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            },
+            {
+                "country": "South Africa",
+                "description": "United Kingdom Unilever Adobe Cloud Configuration",
+                "url": "assets.adobedtm.com/e21dfb008dab7987a37e05e0ce8e8f311baa4a2a/satelliteLib-2edb81462c041537c6a7bdf2ae1c246a8dc095f2.js"
+            }
+            
+        ]
+}
+
+
+
+
+
+
+
+

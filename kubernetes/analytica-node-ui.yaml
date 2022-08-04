@@ -1,0 +1,60 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: analytica-node-ui
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: analytica-node-ui
+        role: grid
+    spec:
+      volumes:                          
+        - name: dshm
+          emptyDir:
+            medium: Memory
+      containers:
+        - name: analytica-node-ui
+          image: 626313752456.dkr.ecr.eu-central-1.amazonaws.com/analytica-ui
+          imagePullPolicy: Always
+          args:
+          command: [ "/bin/bash", "-c" ]
+          args: [ "npm run start" ]
+          env:
+          resources:
+            requests:
+              cpu: 250m
+              memory: 500Mi
+          ports:
+            - containerPort: 3000
+              protocol: TCP
+          volumeMounts:                 
+            - mountPath: /dev/shm
+              name: dshm
+---
+#apiVersion: v1
+#kind: Service
+#metadata:
+#  labels:
+#    app: analytica-node-ui
+#  name: analytica-node-ui
+#  namespace: default
+#spec:
+#  ports:
+#  - name: analytica-node-ui
+#    port: 80
+#    protocol: TCP
+#    targetPort: 3000
+#  selector:
+#    app: analytica-node-ui
+#    role: grid
+#  type: LoadBalancer
+#  loadBalancerSourceRanges:
+#  - 193.201.132.247/32
+#  - 52.28.73.216/32
+#  - 14.140.116.135/32
+#  - 125.16.91.5/32
+#  - 14.140.116.136/32
+#  - 14.140.116.145/32
+#  - 14.140.116.155/32
