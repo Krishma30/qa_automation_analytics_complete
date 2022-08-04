@@ -1,0 +1,73 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-11444696-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-35796819-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-62462039-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmanns World",
+        "Custom_dimension3": "Hellmanns",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrworld-knorr-za,unilever-global-allbrands"
+      },
+      {
+        "country": "us",
+        "url": "assets.adobedtm.com/launch-en0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "ua-35796819-1",
+        "eVar1": "brand site",
+        "eVar2": "knorr",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "us",
+        "eVar72": "digital 2.0"
+      },
+      {
+        "country": "el salvador",
+        "url": "assets.adobedtm.com/launch-en44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "ua-3159949-1",
+        "eVar1": "brand site",
+        "eVar2": "knorr",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "el salvador",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-knorrw-knorr-sv,unileverlatam-global-allbrands"
+      }
+    ]
+  }
+}

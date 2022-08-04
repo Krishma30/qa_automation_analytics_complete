@@ -1,0 +1,168 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-46670668-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-46670668-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-106775132-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-36818679-4",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-140555093-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-140555093-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-58296298-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-44024351-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Nexxus",
+        "Custom_dimension3": "Nexxus",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-nexxus-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-nexxus-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "mexico",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-nexxus-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-nexxus-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-nexxus-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-nexxus-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-nexxus-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "nexxus",
+        "eVar3": "nexxus",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-nexxus-ca,unileverna-global-allbrands"
+      }
+    ]
+  }
+}

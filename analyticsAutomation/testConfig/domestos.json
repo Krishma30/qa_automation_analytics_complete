@@ -1,0 +1,208 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-53292756-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "NA",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46719719-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-8183677-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Hungary",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42198999-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Hungary",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-28568597-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-125545526-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-64259058-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-56993162-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Romania",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-55963701-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Romania",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-100769742-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Domestos",
+        "Custom_dimension3": "Domestos",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "na",
+        "eVar5": "home care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-domestos-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestoss-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestos-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "hungary",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestos-hu,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-domestos-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-domex-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "poland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestos-pl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestos-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "romania",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestos-ro,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "domestos",
+        "eVar3": "domestos",
+        "eVar5": "home care",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-domestos-ru,unilever-global-allbrands"
+      }
+    ]
+  }
+}

@@ -1,0 +1,968 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Seda",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-15419033-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-34721144-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-84210126-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-46390256-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Peru",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-83287329-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Peru",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-57255486-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-8351831-44",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Seda",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-39757917-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-106149957-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-84210126-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-16313413-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Pakistan",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-90994246-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Pakistan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-106149957-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Costa Rica",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-42379896-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Costa Rica",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bangladesh",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-56478385-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bangladesh",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Chile",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-8863498-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Chile",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Uruguay",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-12110946-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Uruguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Sri Lanka",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Sri Lanka",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-19",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-11545705-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-83291452-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Seda",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil"
+        
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-15419033-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-34721144-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-84210126-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-46390256-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Peru",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-83287329-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Peru",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-57255486-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-8351831-44",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Seda",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-39757917-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-106149957-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-84210126-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-16313413-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Pakistan",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-90994246-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Pakistan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-106149957-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Costa Rica",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-42379896-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Costa Rica",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bangladesh",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-56478385-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bangladesh",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Chile",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-8863498-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Chile",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Uruguay",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-12110946-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Uruguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Sri Lanka",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Sri Lanka",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-19",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-11545705-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-83291452-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "seda",
+        "evar5": "personal care",
+        "evar4": "brazil",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-seda-br,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "argentina",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-sedal-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "thailand",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-th,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "malaysia",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-my,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "italy",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-it,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "peru",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-pe,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "vietnam",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-vn,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "seda",
+        "evar5": "personal care",
+        "evar4": "india",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-in,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "philippines",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-ph,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "saudi arabia",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-sa,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "malaysia",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-my,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "paraguay",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-py,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "pakistan",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-pk,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "saudi arabia",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-sa,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "costa rica",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-cr,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "bangladesh",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-bd,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "chile",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-sedal-cl,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "uruguay",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-uy,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "sri lanka",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-lk,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "egypt",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-eg,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "egypt",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-eg,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "turkey",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-elidor-tr,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "indonesia",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-id,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "egypt",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-eg,unilever-global-allbrands"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-40636572-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sunsilk",
+        "Custom_dimension3": "Sunsilk",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "seda",
+        "evar5": "personal care",
+        "evar4": "brazil",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-seda-br,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "argentina",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-sedal-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "thailand",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-th,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "malaysia",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-my,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "italy",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-it,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "peru",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-pe,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "vietnam",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-vn,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "seda",
+        "evar5": "personal care",
+        "evar4": "india",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-in,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "philippines",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-ph,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "saudi arabia",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-sa,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "malaysia",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-my,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "paraguay",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-py,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "pakistan",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-pk,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "saudi arabia",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-sa,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "costa rica",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-cr,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "bangladesh",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-bd,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "chile",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-sedal-cl,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sedal",
+        "evar5": "personal care",
+        "evar4": "uruguay",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverlatam-sunsilk-uy,unileverlatam-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "sri lanka",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-lk,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "egypt",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-eg,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "egypt",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-eg,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "turkey",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-elidor-tr,unilever-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "indonesia",
+        "evar72": "digital 2.0",
+        "report_suites": "unileverapac-sunsilk-id,unileverapac-global-allbrands"
+      },
+      {
+        "evar1": "brand site",
+        "evar2": "sunsilk",
+        "evar3": "sunsilk",
+        "evar5": "personal care",
+        "evar4": "egypt",
+        "evar72": "digital 2.0",
+        "report_suites": "unilever-sunsilk-eg,unilever-global-allbrands"
+      }
+    ]
+  }
+}

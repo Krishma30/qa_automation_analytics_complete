@@ -1,0 +1,725 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-108807774-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-9",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-108807774-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Netherlands",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-4",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Netherlands",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-21",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-108807774-17",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-108807774-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-22",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-108807774-15",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-108807774-36",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-62350823-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-108807774-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Hungary",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-11",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Hungary",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Ukraine",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-32",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Ukraine",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-108807774-18",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-108807774-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Norway",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Norway",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Sweden",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Sweden",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Phillippines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-108807774-16",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Phillippines",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Finland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-7",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Finland",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Slovakia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-10",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Slovakia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-37",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Portugal",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-26",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Portugal",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Czech Republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-12",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Czech Republic",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-29",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Home care",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Hong Kong",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-108807774-28",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Hong Kong",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-108807774-20",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-33",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-62350823-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Netherlands",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-34150105-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Netherlands",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-108807774-37",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Love Beauty and Planet",
+        "Custom_dimension3": "Love Beauty and Planet",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-lbp-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lbp-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "poland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-pl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-lbp-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "netherlands",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "france",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-lbp-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "malaysia",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-dove-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-lbp-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverapac-lbp-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lovebeautyandplanet-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lbp-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-lbp-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "hungary",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-hu,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "ukraine",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-ua,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "australia",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverapac-lbp-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverna-lbp-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "norway",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-no-uat,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "sweden",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-se,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "phillippines",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverapac-lbp-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "finland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-fi,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "slovakia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-sk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lovebeautyandplanet-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "portugal",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-pt,unilever-global-allbrands"
+      },
+      {
+        "country": "belgium",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-108807774-5",
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lovebeautyandplanet-cz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "home care",
+        "eVar4": "denmark",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-dk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "hong kong",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lbp-hk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-lbp-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-lbp-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "netherlands",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lbp-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "love beauty and planet",
+        "eVar3": "love beauty and planet",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lovebeautyandplanet-sa,unilever-global-allbrands"
+      }
+    ]
+  }
+}

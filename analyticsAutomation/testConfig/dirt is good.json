@@ -1,0 +1,568 @@
+{
+  "profiles": {
+    "google ": [
+      {
+        "country": "Morocco",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-143937598-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good ",
+        "Custom_dimension3": "omo",
+        "Custom_dimension4": "Home care",
+        "Custom_dimension5": "Morocco",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-52697064-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Chile",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Chile",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-5282169-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Biotex",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-38512176-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Breeze",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Finland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-29",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "OMO",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Finland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-22",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Skip",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-36",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bolivia",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-33",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Bolivia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-34",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bangladesh",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-55035243-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Surf Excel",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Bangladesh",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-36",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Ecuador",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-89853704-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Deja",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Ecuador",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-45",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Morroco",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": " UA-143937598-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Morroco",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-22221165-11",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Rinso",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-28",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Ala",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-22221165-19",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Sweden",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-12",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Via",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Sweden",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-22221165-30",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Breeze",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-22221165-20",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Surf Excel",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-22221165-21",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Colombia",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-9",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt Is Good",
+        "Custom_dimension3": "Fab",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Colombia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-38512176-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt Is Good",
+        "Custom_dimension3": "Skip",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "New Zealand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-22221165-25",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt Is Good",
+        "Custom_dimension3": "Persil",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "New Zealand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-22221165-4",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt Is Good",
+        "Custom_dimension3": "Persil",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-52489369-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dirt is Good",
+        "Custom_dimension3": "Omo",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand Site",
+        "eVar2": "dirt is good ",
+        "eVar3": "omo",
+        "eVar4": "morocco",
+        "eVar5": "home care",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-ma,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "chile",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-omo-cl,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "biotex",
+        "eVar5": "home care",
+        "eVar4": "denmark",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-biotex-dk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "breeze",
+        "eVar5": "home care",
+        "eVar4": "philippines",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-breeze-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "finland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-fi,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "skip",
+        "eVar5": "home care",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-skip-es,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "bolivia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-omo-bo,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "paraguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-omo-py,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "surf excel",
+        "eVar5": "home care",
+        "eVar4": "bangladesh",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-surfexcel-bd,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "deja",
+        "eVar5": "home care",
+        "eVar4": "ecuador",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-deja-ec,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "morroco",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-ma,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-omo-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "rinso",
+        "eVar5": "home care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-rinso-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "ala",
+        "eVar5": "home care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-ala-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-omo-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "fab",
+        "eVar5": "home care",
+        "eVar4": "colombia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dig-fab-co,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "skip",
+        "eVar5": "home care",
+        "eVar4": "france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-skip-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "persil",
+        "eVar5": "home care",
+        "eVar4": "new zealand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-persil-nz,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "persil",
+        "eVar5": "home care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-persil-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "via",
+        "eVar5": "home care",
+        "eVar4": "sweden",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-via-se,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "breeze",
+        "eVar5": "home care",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-breeze-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "surf excel",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-surfexcel-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "australia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-omo-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dirt is good",
+        "eVar3": "omo",
+        "eVar5": "home care",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dig-omo-za,unilever-global-allbrands"
+      }
+    ]
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-46720180-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-38933792-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46716040-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-90435912-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-39784577-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshments",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-79506931-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-79506931-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-46718220-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-49617758-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46712472-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-41284880-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46726726-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/e6bd1902389a/c607deecff31/launch-9122dcfedf19.min.js",
+        "tid": "UA-46718145-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46711656-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "magnum",
+        "Custom_dimension3": "magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Netherlands",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46713664-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Netherlands",
+        "Custom_dimension6": "Digital 2.0 "
+        
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46714045-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46715251-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-92060076-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46715198-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "refreshment",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Singapore",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-46729618-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Singapore",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-84831569-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46715230-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-39855273-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "refreshment",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46715230-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Austria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46699822-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Austria",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "chile",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-84909000-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "chile",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-84831569-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "magnum",
+        "Custom_dimension4": "refreshment",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-41284880-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-39855273-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+        
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-44447396-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Magnum",
+        "Custom_dimension3": "Magnum",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+        
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "foods",
+        "eVar4": "malaysia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-my,unileverapac-global-allbrands"
+      },
+      {
+        "country": "australia",
+        "url": "assets.adobedtm.com/launch-en60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "ua-39784577-2",
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshments",
+        "eVar4": "australia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-magnum-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "italy",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-it,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-magnum-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "mexico",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-magnum-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "netherlands",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-magnum-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-es,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "philippines",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "poland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-pl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "singapore",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-sg,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-magnum-th,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-magnum-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "austria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "foods",
+        "eVar4": "chile",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-magnum-cl,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-magnum-magnum-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-magnum-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-magnum-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "magnum",
+        "eVar3": "magnum",
+        "eVar5": "refreshment",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-magnum-de,unilever-global-allbrands"
+      }
+    ]
+  }
+}

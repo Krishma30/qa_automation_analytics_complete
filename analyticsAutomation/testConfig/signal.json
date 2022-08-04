@@ -1,0 +1,408 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-11",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "signal",
+        "Custom_dimension3": "signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-47630116-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "signal",
+        "Custom_dimension3": "signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-8",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46812186-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Hungary",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-17",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Hungary",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Czech Republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-84568959-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Czech Republic",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bangladesh",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-13220260-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bangladesh",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-8",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Morocco",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-18",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Morocco",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Morocco",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-13220260-18",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Morocco",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-10",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Slovakia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-84568959-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Slovakia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Sri Lanka",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-13220260-7",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Sri Lanka",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-10",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Slovenia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41604653-7",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Slovenia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Croatia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-14",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Croatia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46824708-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46824708-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Serbia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-15",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Serbia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-109692111-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Signal",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "egypt",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-eg,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-signal-sig-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "hungary",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-hu,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-cz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "bangladesh",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-signal-pepsodent-bd,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "morocco",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-mo,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "morocco",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-mb,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "slovakia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "sri lanka",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-signal-sig-lk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "slovenia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-si,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "croatia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-hr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-sig-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "serbia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-rs,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "signal",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-signal-ps-vn,unileverapac-global-allbrands"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46742534-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Ice Cream MultiBrands",
+        "Custom_dimension3": "Share Happy",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    
+  
+  "adobe": [
+    {
+      "eVar1": "brand Site",
+      "eVar2": "Ice Cream MultiBrands",
+      "eVar3": "Share Happy",
+      "eVar4": "Greece",
+      "eVar5": "Refreshments",
+      "eVar72": "digital 2.0",
+      "report_suites": "unilever-walls-gr,unilever-global-allbrands"
+    }
+  ]
+}
+}

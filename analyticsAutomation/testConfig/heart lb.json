@@ -1,0 +1,68 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-34276464-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Heart LB",
+        "Custom_dimension3": "Good Humor",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-21905784-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Heart LB",
+        "Custom_dimension3": "Frisko",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Heart LB",
+        "Custom_dimension3": "Good Humor",
+        "Custom_dimension4": "Refreshment",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "heart lb",
+        "eVar3": "good humor",
+        "eVar5": "refreshment",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-walls-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "heart lb",
+        "eVar3": "frisko",
+        "eVar5": "refreshment",
+        "eVar4": "denmark",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-frisko-dk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "heart lb",
+        "eVar3": "good humor",
+        "eVar5": "refreshment",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-walls-us,unileverna-global-allbrands"
+      }
+    ]
+  }
+}

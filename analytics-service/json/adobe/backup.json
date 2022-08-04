@@ -1,0 +1,114 @@
+{
+	"profiles": [{
+            "key": "event17",
+            "values":[
+                {
+                    "name":"eVar55",
+                    "validationtype":"contains",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"eVar51",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"products",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+            ]    
+        },
+        {
+            "key": "event10",
+            "values":[
+                {
+                    "name":"products",
+                    "validationtype":"regex",
+                    "validationvalue":"stringandspace"
+                }
+            ]
+        },    
+        {
+            "key": "event11",
+            "values":[
+                {
+                    "name":"products",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+            ]
+        },    
+        {
+            "key": "event13",
+            "values":[
+                {
+                    "name":"v27",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"v28",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"v29",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"v30",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                },
+                {
+                    "name":"v31",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+
+            ]
+        },    
+        {
+            "key": "event15",
+            "values":[
+                {
+                    "name":"v36",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+            ]
+        },    
+        {
+            "key": "event9",
+            "values":[
+                {
+                    "name":"products",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+            ]
+        },    
+        {
+            "key": "event12",
+            "values":[
+                {
+                    "name":"products",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+            ]
+        },    
+        {
+            "key": "event63",
+            "values":[
+                {
+                    "name":"v46",
+                    "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+                }
+            ]
+        }
+	]
+}

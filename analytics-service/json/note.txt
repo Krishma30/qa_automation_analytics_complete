@@ -1,0 +1,108 @@
+ "validationtype":"regex",
+"validationvalue":"numberonly"
+
+
+
+           "validationtype":"regex",
+                    "validationvalue":"stringnotnull"
+
+
+                         "validationtype":"contains",
+                    "validationvalue":""
+
+
+                      "validationtype":"regex",
+                    "validationvalue":"alphanumeric"
+
+                     "validationtype":"regex",
+                    "validationvalue":"stringornull"
+
+
+
+                    Peru
+Canada
+China
+Poland
+Global
+UK
+US
+France
+Belgium
+India
+Albania
+Germany
+Brazil
+Thailand
+Philippines
+Portugal
+Indonesia
+Colombia
+Netherlands
+South Africa
+Mexico
+Russia
+Japan
+Greece
+Argentina
+Spain
+Denmark
+Vietnam
+Switzerland
+Romania
+New Zealand
+Paraguay
+Kazakhstan
+Pakistan
+Nigeria
+Sweden
+Uruguay
+Hungary
+ecuador
+Bulgaria
+Chile
+Kenya
+Finland
+Turkey
+Czech Republic
+Slovakia
+Saudi Arabia
+Africa
+Bolivia
+Croatia
+Egypt
+Sri Lanka
+Australia
+Central America
+Deutschland
+Norway
+Austria
+Italy
+Iran
+Slovenia
+Ireland
+Hong Kong
+Bangladesh
+Latin America
+Middle East
+singapore
+Azerbaijan
+Israel
+SOCO
+Bosnia
+Ghana
+Estonia
+El Salvador
+Costa Rica
+Guatemala
+SouthAsia
+Lithuania
+Ukraine
+Malaysia
+Taiwan
+Arabia
+Gulf
+Russian Federation
+Belgium France
+Brand Site
+Serbia
+Cote DIvoire

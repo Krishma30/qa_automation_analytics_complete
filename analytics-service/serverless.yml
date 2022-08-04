@@ -1,0 +1,281 @@
+#org: akrishma
+#app: analytics-service
+# Welcome to Serverless!
+#
+# This file is the main config file for your service.
+# It's very minimal at this point and uses default values.
+# You can always add more config options for more control.
+# We've included some commented out config examples here.
+# Just uncomment any of them to get that config option.
+#
+# For full config options, check the docs:
+#    docs.serverless.com
+#
+# Happy Coding!
+
+service: analytics-automation-service
+
+
+custom:
+  analyticsAutomation: 'qa-analytics-sessions-v2-${self:provider.stage}' 
+  validationevents: 'qa-analytics-validationevents-v2-${self:provider.stage}' 
+  analyticsTest: 'qa-analytics-pageload-v3-${self:provider.stage}' 
+  triggerAnalyticsQueue: ${self:provider.stage}-triggerAnalyticsQueue
+
+# You can pin your service to only deploy with a specific Serverless version
+# Check out our docs for more details
+# frameworkVersion: "=X.X.X"
+
+provider:
+  name: aws
+  apiKeys:
+    - ${self:provider.stage}-qaDashboards-analytics
+  usagePlan:
+    throttle:
+      burstLimit: 200
+      rateLimit: 500
+  runtime: nodejs10.x
+  stackTags:
+    APP: "qanalytics-automation"
+  profile: analytics-testing
+  region: eu-west-1
+  stage: ${opt:stage, 'beta'}
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+      Resource:
+        - { "Fn::GetAtt": ["AnalyticsAutomationSessions", "Arn" ] }
+        - { "Fn::GetAtt": ["ValidationEvents", "Arn" ] } 
+        - { "Fn::GetAtt": ["AnalyticsTest", "Arn" ] } 
+    - Effect: "Allow"
+      Action: sqs:SendMessage
+      Resource: 
+        - "Fn::GetAtt": [TriggerAnalyticsQueue, Arn]
+
+  
+  environment:
+    QA_ANALYTICS_SESSIONS_TABLE: ${self:custom.analyticsAutomation}
+    URL_TRIGGER_SQS: https://sqs.${self:provider.region}.amazonaws.com/${self:custom.triggerAnalyticsQueue}
+
+# you can overwrite defaults here
+#  stage: dev
+#  region: us-east-1
+
+# you can add statements to the Lambda function's IAM Role here
+#  iamRoleStatements:
+#    - Effect: "Allow"
+#      Action:
+#        - "s3:ListBucket"
+#      Resource: { "Fn::Join" : ["", ["arn:aws:s3:::", { "Ref" : "ServerlessDeploymentBucket" } ] ]  }
+#    - Effect: "Allow"
+#      Action:
+#        - "s3:PutObject"
+#      Resource:
+#        Fn::Join:
+#          - ""
+#          - - "arn:aws:s3:::"
+#            - "Ref" : "ServerlessDeploymentBucket"
+#            - "/*"
+
+# you can define service wide environment variables here
+#  environment:
+#    variable1: value1
+
+# you can add packaging information here
+#package:
+#  include:
+#    - include-me.js
+#    - include-me-dir/**
+#  exclude:
+#    - exclude-me.js
+#    - exclude-me-dir/**
+
+functions:
+  startAnalyticsSession:
+    handler: handler.startAnalyticsSession
+    events: 
+      - http:
+          path: startAnalyticsSession/
+          method: post
+          cors: true
+          private: true
+  getTestSessions:
+    handler: handler.getTestSessions
+    events:
+      - http:
+          path: getAnalyticsSessions
+          method: get
+          cors: true
+  endSession:
+    handler: handler.endSession
+    events:
+      - http:
+          path: endAnalyticsSession
+          method: post
+          cors: true
+  updateCounter:
+    handler: handler.updateCounter
+    events:
+      - http:
+          path: updateAnalyticsCounter
+          method: post
+          cors: true 
+  startAdobeValidation:
+    handler: handler.startAdobeValidation
+    events:
+      - http:
+          path: startAdobeValidation
+          method: post
+          cors: true
+  getAdobeValidation:
+    handler: handler.getAdobeValidation
+    events:
+      - http:
+          path: getAdobeValidation
+          method: get
+          cors: true
+  getPageLoadValidation:
+    handler: handler.getPageLoadValidation
+    events:
+      - http:
+          path: getPageLoadValidation
+          method: get
+          cors: true
+  getPageInfo:
+    handler: handler.getPageInfo
+    events:
+      - http:
+          path: getPageInfo
+          method: get
+          cors: true     
+  startAnalyticsTest:
+    handler: handler.startAnalyticsTest
+    events:
+      - http:
+          path: startAnalyticsTest
+          method: post
+          cors: true
+  triggerAnalyticsExecution:
+    handler: handler.triggerAnalyticsExecution
+    events:
+      - http:
+          path: triggerExecution
+          method: post
+          cors: true
+          private: true      
+
+  # endAnalyticsSession:
+  #   handler: handler.endAnalyticsSession
+  #   events: 
+  #     - http:
+  #         path: endAnalyticsSession/
+  #         method: post
+  #         cors: true
+  #         private: true
+  # updateAnalyticsSession:
+  #   handler: handler.updateAnalyticsSession
+  #   events: 
+  #     - http:
+  #         path: updateAnalyticsSession/
+  #         method: post
+  #         cors: true
+  #         private: true
+  # getAllAnalyticsSessions:
+  #   handler: handler.getAllAnalyticsSessions
+  #   events: 
+  #     - http:
+  #         path: getAllAnalyticsSession/
+  #         method: post
+  #         cors: true
+  #         private: true
+
+#    The following are a few example events you can configure
+#    NOTE: Please make sure to change your handler code to work with those events
+#    Check the event documentation for details
+#    events:
+#      - http:
+#          path: users/create
+#          method: get
+#      - s3: ${env:BUCKET}
+#      - schedule: rate(10 minutes)
+#      - sns: greeter-topic
+#      - stream: arn:aws:dynamodb:region:XXXXXX:table/foo/stream/1970-01-01T00:00:00.000
+#      - alexaSkill
+#      - alexaSmartHome: amzn1.ask.skill.xx-xx-xx-xx
+#      - iot:
+#          sql: "SELECT * FROM 'some_topic'"
+#      - cloudwatchEvent:
+#          event:
+#            source:
+#              - "aws.ec2"
+#            detail-type:
+#              - "EC2 Instance State-change Notification"
+#            detail:
+#              state:
+#                - pending
+#      - cloudwatchLog: '/aws/lambda/hello'
+#      - cognitoUserPool:
+#          pool: MyUserPool
+#          trigger: PreSignUp
+
+#    Define function environment variables here
+#    environment:
+#      variable2: value2
+
+# you can add CloudFormation resource templates here
+
+resources:
+  Resources:
+    AnalyticsAutomationSessions:
+      Type: 'AWS::DynamoDB::Table'
+      Properties:
+        TableName: ${self:custom.analyticsAutomation}
+        AttributeDefinitions:
+          - AttributeName: sessionId
+            AttributeType: S
+        KeySchema:
+          - AttributeName: sessionId
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 5
+          WriteCapacityUnits: 5
+    ValidationEvents:
+      Type: 'AWS::DynamoDB::Table'
+      Properties:
+        TableName: ${self:custom.validationevents}
+        AttributeDefinitions:
+          - AttributeName: Id
+            AttributeType: S
+        KeySchema:
+          - AttributeName: Id
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 5
+          WriteCapacityUnits: 5
+    AnalyticsTest:
+      Type: 'AWS::DynamoDB::Table'
+      Properties:
+        TableName: ${self:custom.analyticsTest}
+        AttributeDefinitions:
+          - AttributeName: Id
+            AttributeType: S
+        KeySchema:
+          - AttributeName: Id
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 5
+          WriteCapacityUnits: 5
+    TriggerAnalyticsQueue:
+      Type: 'AWS::SQS::Queue'
+      Properties:
+         QueueName: ${self:custom.triggerAnalyticsQueue}
+
+
+plugins:
+  - serverless-offline

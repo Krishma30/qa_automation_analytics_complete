@@ -1,0 +1,48 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Austria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47045613-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Mentadent",
+        "Custom_dimension3": "Mentadent",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Austria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47408475-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Mentadent",
+        "Custom_dimension3": "Mentadent",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "mentadent",
+        "eVar3": "mentadent",
+        "eVar5": "personal care",
+        "eVar4": "austria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-cleanipedia-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "mentadent",
+        "eVar3": "mentadent",
+        "eVar5": "personal care",
+        "eVar4": "italy",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-mentadent-it,unilever-global-allbrands"
+      }
+    ]
+  }
+}

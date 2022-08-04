@@ -1,0 +1,68 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/e6bd1902389a/654f9812a844/launch-631593a6ddd4.min.js",
+        "tid": "UA-32249619-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Recepedia",
+        "Custom_dimension3": "Recipedia",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Static First"
+      },
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/e6bd1902389a/654f9812a844/launch-631593a6ddd4.min.js",
+        "tid": "UA-67356879-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Recepedia",
+        "Custom_dimension3": "Recipedia",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Static First"
+      },
+      {
+        "country": "Uk",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-90851017-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Recipedia",
+        "Custom_dimension3": "Recipedia",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Uk",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "recepedia",
+        "eVar3": "recipedia",
+        "eVar5": "foods",
+        "eVar4": "mexico",
+        "eVar72": "static first",
+        "report_suites": "unileverlatam-recipedia-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "recepedia",
+        "eVar3": "recipedia",
+        "eVar5": "foods",
+        "eVar4": "mexico",
+        "eVar72": "static first",
+        "report_suites": "unileverlatam-recipedia-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "recipedia",
+        "eVar3": "recipedia",
+        "eVar5": "foods",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-recipedia-uk,unilever-global-allbrands"
+      }
+    ]
+  }
+}

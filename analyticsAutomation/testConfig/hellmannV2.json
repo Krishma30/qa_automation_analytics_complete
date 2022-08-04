@@ -1,0 +1,334 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-34396107-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "HellmannV2",
+        "Custom_dimension3": "HellmannV2",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "BR",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-3071335-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "hellmannsv2",
+        "Custom_dimension3": "hellmannsv2",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "BR",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31636320-39",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmanns",
+        "Custom_dimension3": "Hellmanns",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31636320-40",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmanns",
+        "Custom_dimension3": "Hellmanns",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31636320-40",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmanns",
+        "Custom_dimension3": "Hellmanns",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Uruguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": " UA-31636320-42",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmanns",
+        "Custom_dimension3": "Hellmanns",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Uruguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-72476455-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann\\'s World",
+        "Custom_dimension3": "Hellmann\\'s World",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47634303-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Austria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31636320-36",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Austria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "SE",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31636320-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "SE",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-100394516-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "NL",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-51671325-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "NL",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-34396107-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31636320-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-62462039-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmanns World",
+        "Custom_dimension3": "Hellmanns",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-34150105-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Hellmann/s World",
+        "Custom_dimension3": "Hellmann/s",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand Site",
+        "eVar2": "hellmannV2",
+        "eVar3": "hellmannV2",
+        "eVar4": "us",
+        "eVar5": "foods",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-hellmnswrld-hllmns-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmanns",
+        "eVar3": "hellmanns",
+        "eVar5": "foods",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmanns-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmanns",
+        "eVar3": "hellmanns",
+        "eVar5": "foods",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmanns-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmanns",
+        "eVar3": "hellmanns",
+        "eVar5": "foods",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmanns-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmanns",
+        "eVar3": "hellmanns",
+        "eVar5": "foods",
+        "eVar4": "uruguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-hellmanns-uy,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmannsworld-hellmanns-es,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "austria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmanns-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "se",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmannsworld-hellmanns-se,unilever-global-allbrands"
+      },
+      {
+        "country": "turkey",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-100394516-1",
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmanns-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "nl",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmanns-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-hellmnswrld-hllmns-us,unileverna-global-allbrands "
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "greece",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmannsworld-hellmanns-gr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann/s world",
+        "eVar3": "hellmann/s",
+        "eVar5": "foods",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-hellmanns-ca,unileverna-global-allbrands"
+      },
+      {
+        "country": "paraguay",
+        "url": "assets.adobedtm.com/launch-en44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "ua-62462039-1",
+        "eVar1": "brand site",
+        "eVar2": "hellmanns world",
+        "eVar3": "hellmanns",
+        "eVar5": "foods",
+        "eVar4": "paraguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-hellmanns-py,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmann\\'s world",
+        "eVar3": "hellmann\\'s world",
+        "eVar5": "foods",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-hellmannsworld-hellmanns-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "hellmannsv2",
+        "eVar3": "hellmannsv2",
+        "eVar5": "foods",
+        "eVar4": "br",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-hellmanns-br,unileverlatam-global-allbrands"
+      }
+    ]
+  }
+}

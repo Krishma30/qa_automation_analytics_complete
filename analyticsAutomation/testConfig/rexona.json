@@ -1,0 +1,789 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-36307455-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Degree",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Colombia",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-46822880-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Colombia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-36307455-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Degree",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42292871-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-38300383-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-38117778-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Degree",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-37473001-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-85605154-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-85605154-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-38307381-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-60183262-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-38117288-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-37468148-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-38302299-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Sure",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Chile",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-41465291-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Chile",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Uruguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-64705489-4",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Uruguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-65739484-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Netherlands",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-38300174-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Netherlands",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-87024901-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-87024901-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-71823083-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Finland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42305416-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Finland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-38301693-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46808840-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-38117778-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Degree",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42292685-8",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Czech Republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47255456-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Czech Republic",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Czech Republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47255456-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Czech Republic",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Czech Republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47255456-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Czech Republic",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Austria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46807642-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Austria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Slovakia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47489188-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Slovakia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Portugal",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42300111-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Portugal",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-37457873-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-38325104-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-37471310-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-37469338-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-58323701-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-22221165-7",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47289229-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Rexona",
+        "Custom_dimension3": "Rexona",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "degree",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-rexona-degree-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "colombia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-co,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "degree",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-rexona-degree-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-es,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "degree",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-rexona-degree-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "mexico",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "egypt",
+        "eVar72": "digital 2.0",
+        "report_suites": " unilever-rexona-eg,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "egypt",
+        "eVar72": "digital 2.0",
+        "report_suites": " unilever-rexona-eg,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-rexona-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "philippines",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-rexona-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "australia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-rexona-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "sure",
+        "eVar5": "personal care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-sure-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "chile",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-cl,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "uruguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-uy,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-rexona-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "netherlands",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": " unilever-rexona-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": " unilever-rexona-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "malaysia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-rexona-my,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "finland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-fi,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "degree",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-cleanipedia-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "denmark",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-dk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-cz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-cz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-cz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "austria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "slovakia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-sk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "portugal",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-pt,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-rexona-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "mexico",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-rexona-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "rexona",
+        "eVar3": "rexona",
+        "eVar5": "personal care",
+        "eVar4": "egypt",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-rexona-eg,unilever-global-allbrands"
+      }
+    ],
+    
+  }
+}

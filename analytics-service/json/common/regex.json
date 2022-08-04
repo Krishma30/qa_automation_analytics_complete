@@ -1,0 +1,33 @@
+{
+	"profiles": [{
+			"key": "StringNotNull",
+			"description": "String value not null",
+			"values" : "^(?!\\s*$).+"
+		},
+		{
+            "key": "AlphaNumeric",
+			"description": "String value can be null",
+			"values" : "[A-Za-z0-9]+"
+		},
+		{
+            "key": "Numeric",
+			"description": "Int value can be null",
+			"values" : "^[0-9]*$"
+		},
+		{
+            "key": "URL",
+			"description": "URL",
+			"values" : "^(http:\/\/www\\.|https:\/\/www\\.|http:\/\/|https:\/\/)?[a-z0-9]+([\\-\\.]{1}[a-z0-9]+)*\\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$"
+		},
+		{
+            "key": "Alphabets",
+			"description": "String value can be null",
+			"values" : "[A-Za-z]+"
+		},
+		{
+            "key": "Products",
+			"description": "Products regex Valid s.products string : <-- ';[Product ID];[Quantity];[Price],;[Product ID2];[Quantity];[Price] -->",
+			"values" : "[A-Za-z]+"
+		}
+	]
+}

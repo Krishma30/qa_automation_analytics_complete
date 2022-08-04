@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31719952-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Aim",
+        "Custom_dimension3": "Aim",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+ 
+  "adobe": [
+    {
+      "eVar1": "brand Site",
+      "eVar2": "aim",
+      "eVar3": "aim",
+      "eVar4": "greece",
+      "eVar5": "personal care",
+      "eVar72": "digital 2.0",
+      "report_suites": "unilever-aim-gr,unilever-global-allbrands"
+    }
+  ]
+}
+}

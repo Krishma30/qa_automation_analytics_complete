@@ -1,0 +1,529 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-36122180-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-35790054-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-49188536-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42963608-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Ecuador",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-36122180-7",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr world",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Ecuador",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-40462445-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-46529264-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-35787857-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Colombia",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-31202045-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Colombia",
+        "Custom_dimension6": "Digital 2.0 "
+      },
+      {
+        "country": "Nigeria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-51452996-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Nigeria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Uruguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-41121737-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Uruguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-36122180-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-35798913-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-35796819-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Refreshments",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-35792643-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-35793240-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-68586126-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-35798913-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-35787993-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-50456082-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-35789468-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Taiwan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-5875274-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Taiwan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Austria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-35792241-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Austria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Ireland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41893983-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Ireland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-40462445-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47365263-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Knorr World",
+        "Custom_dimension3": "Knorr",
+        "Custom_dimension4": "Foods",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrworld-knorr-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverlatam-knorrworld-knorr-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "denmark",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrworld-knorr-dk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-knorrworld-knorr-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "italy",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-it,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "australia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-knorrw-continental-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "colombia",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverlatam-knorrworld-knorr-co,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "ecuador",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-knorrw-knorr-ec,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "nigeria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrworld-knorr-ng,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "uruguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-knorrworld-knorr-uy,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "paraguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-knorrworld-knorr-py,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-knorrw-knorr-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "refreshments",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-knorrworld-knorr-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-knorrworld-knorr-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": " unileverapac-knorrworld-knorr-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "greece",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-gr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-knorrw-knorr-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrworld-knorr-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-knorrworld-knorr-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "taiwan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-knorrw-knorr-tw,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "austria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "ireland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-ie,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrw-knorr-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "knorr world",
+        "eVar3": "knorr",
+        "eVar5": "foods",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-knorrworld-knorr-es,unilever-global-allbrands"
+      }
+    ],
+    
+  }
+}

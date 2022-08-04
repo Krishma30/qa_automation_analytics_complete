@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Colombia",
+        "url": "assets.adobedtm.com/e6bd1902389a/1d502bdd11f6/launch-025255e447b2.min.js",
+        "tid": "UA-37556309-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Sedal",
+        "Custom_dimension3": "Sedal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Colombia",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+  "adobe": [
+    {
+      "eVar1": "brand Site",
+      "eVar2": "sedal",
+      "eVar3": "sedal",
+      "eVar4": "colombia",
+      "eVar5": "personal care",
+      "eVar72": "digital 2.0",
+      "report_suites": "unileverlatam-sunsilk-sedal-co,unileverlatam-global-allbrands"
+    }
+  ]
+}
+}

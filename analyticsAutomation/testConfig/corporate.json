@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Global",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-31299720-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Corporate",
+        "Custom_dimension3": "Corporate",
+        "Custom_dimension4": "Corporate",
+        "Custom_dimension5": "Global",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "corporate",
+        "eVar3": "corporate",
+        "eVar5": "corporate",
+        "eVar4": "global",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-connected-world,unileverna-global-allbrands"
+      }
+    ]
+  }
+}

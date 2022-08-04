@@ -1,0 +1,78 @@
+/* Global Styles */
+/* TODO: Move to SASS file(s) */
+
+body {
+  margin: 0px 20px;
+}
+
+.logo {
+  height: 50px;
+  padding-right: 10px;
+}
+
+/* Compare images Styles */
+
+#compareImages .zoom-image {
+  height: 55vh;
+  display: inline-block;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+#compareImages h3 {
+  margin-top: 8px;
+}
+
+.pannable-image {
+  height: 55vh;
+}
+
+#compareImages .column {
+  padding: 0px 3px;
+}
+#compareImages {
+  margin-top: 10px;
+}
+
+#noResults {
+  display: none;
+}
+
+
+.beforeSessions .ReactTable .rt-tr {
+  cursor: pointer;
+}
+
+.compare-header a {
+  font-size: 10px;
+}
+
+a.success,
+a:hover.success {
+  color: #21ba45;
+}
+
+a.failure,
+a:hover.failure {
+  color: #db2828;
+}
+
+.pull-right {
+  float: right;
+}
+
+.pull-right a {
+  padding-left: 15px;
+}
+
+.hidden {
+  display: none;
+}
+
+.errorsTable pre {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}

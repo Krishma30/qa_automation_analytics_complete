@@ -1,0 +1,103 @@
+#ui_card_blue{
+
+    background-color:#86bbd85c;
+   
+}
+
+#ui_card_green{
+    background-color:#21ba454a;
+
+}
+
+#ui_card_red{
+    background-color:#ee250a2f;
+}
+
+#header_bg_color_p2{
+    background-color: #080808cc;
+    
+}
+
+#header_bg_color_p2_menu{
+    background-color: #393939;
+    color: #fff;
+    
+}
+#header_bg_color_p2_menu_2{
+    background-color:#393939;
+    color: #fff;
+    margin-bottom: 8px;
+}
+
+#Url_p1_center{
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom:5%;
+    width: 50%;
+    padding: 10px;     
+      
+}
+#Url_p10_center{
+    margin-left: 20%;
+    margin-bottom:5%;
+    width: 50%;
+    padding: 10px;     
+      
+}
+
+#ui_label{
+
+    background-color:#4869f757
+}
+
+#url_input{
+    width: 43em;
+}
+
+#main_form{
+    background-color: #dededd;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    padding-left: 76px;
+    
+}
+
+#togglemargin{
+
+    margin-left: 22px;
+}
+
+#inputurl{
+    border-radius: 20px;
+    height: 39px;
+    width: 43em;
+    padding-left: 10px;
+}
+
+
+#inputsubmit{
+    border-radius: 20px;
+    height: 29px;
+    width: 15em;
+    margin-left: 12em;
+    background-color: #393939;
+    color: #fff;
+    text-align: center;
+    padding-top: 8px;
+    /* opacity: 0.5; */
+}
+#vspace{
+
+    margin-bottom: 2em;
+}
+
+#vspace2{
+
+    margin-bottom: 8em;
+}
+/* 
+#header{
+    text-align: center !important;
+    padding-top: 
+} */

@@ -1,0 +1,229 @@
+{
+    "profiles": {
+      "google": [
+        {
+          "country": "Brazil",
+          "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+          "tid": "UA-32224754-3",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "LUX",
+          "Custom_dimension3": "LUX",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Brazil",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Saudi Arabia",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-69208757-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Saudi Arabia",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Saudi Arabia",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-69208757-2",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Saudi Arabia",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Argentina",
+          "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+          "tid": "UA-39381467-6",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Argentina",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Thailand",
+          "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+          "tid": "UA-39381467-5",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Thailand",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Indonesia",
+          "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+          "tid": "UA-32226729-7",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Indonesia",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "US",
+          "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+          "tid": "UA-39381467-2",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "US",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "US",
+          "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+          "tid": "UA-39381467-2",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "US",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Bangladesh",
+          "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+          "tid": "UA-106652420-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "Bangladesh",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "South Africa",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-45697539-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "South Africa",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "India",
+          "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+          "tid": "UA-32228103-3",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lux",
+          "Custom_dimension3": "Lux",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "India",
+          "Custom_dimension6": "Digital 2.0"
+        }
+      ],
+      
+    },
+    "adobe": [
+      {
+        "eVar1": "brand Site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar4": "brazil",
+        "eVar5": "personal care",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-lux-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lux-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lux-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-lux-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lux-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lux-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-lux-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-lux-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "bangladesh",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lux-bd,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-lux-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "lux",
+        "eVar3": "lux",
+        "eVar5": "personal care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-lux-in,unileverapac-global-allbrands"
+      }
+    ]
+  }

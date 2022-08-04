@@ -1,0 +1,648 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "UAE",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UAE",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "UAE",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UAE",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Portugal",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Portugal",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-37",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-36807915-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Czech Republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Czech Republic",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-47034269-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-62350823-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "UAE",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-22221165-45",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UAE",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Netherlands",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Netherlands",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Sweden",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Sweden",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 3.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-61071990-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Cleanipedia",
+        "Custom_dimension3": "Cleanipedia",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 3.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "uae",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-ae,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "philippines",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "uae",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-ae,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "portugal",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-pt,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "australia",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "denmark",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-dk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "germany",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-dig-omo-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "south africa",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-domestos-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-cz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "germany",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cif-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "brazil",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverlatam-cif-vim-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "uae",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-dig-omo-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "argentina",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverlatam-cleanipedia-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "brazil",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverlatam-cleanipedia-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "uk",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "turkey",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "india",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "russia",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "germany",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "thailand",
+        "eVar72": "digital 3.0",
+        "report_suites": "unileverapac-cleanipedia-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "poland",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-pt,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "south africa",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "netherlands",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "sweden",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-se,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "france",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "cleanipedia",
+        "eVar3": "cleanipedia",
+        "eVar5": "home care",
+        "eVar4": "denmark",
+        "eVar72": "digital 3.0",
+        "report_suites": "unilever-cleanipedia-it,unilever-global-allbrands"
+      }
+    ]
+  }
+}

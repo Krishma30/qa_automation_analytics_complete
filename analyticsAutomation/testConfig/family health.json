@@ -1,0 +1,48 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-32857575-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Family Health",
+        "Custom_dimension3": "Pepsodent",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-13220260-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Family Health",
+        "Custom_dimension3": "Signal",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "family health",
+        "eVar3": "pepsodent",
+        "eVar5": "personal care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-signl-pepsodent-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "family health",
+        "eVar3": "signal",
+        "eVar5": "personal care",
+        "eVar4": "france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-fr,unilever-global-allbrands"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-130549835-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "The Good Stuff Hair",
+        "Custom_dimension3": "The Good Stuff Hair",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-130549835-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "The Good Stuff Hair",
+        "Custom_dimension3": "The Good Stuff Hair",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "the good stuff hair",
+        "eVar3": "the good stuff hair",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-thegoodstuffhair-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "the good stuff hair",
+        "eVar3": "the good stuff hair",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-thegoodstuffhair-us,unileverna-global-allbrands"
+      }
+    ]
+  }
+}

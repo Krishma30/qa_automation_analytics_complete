@@ -1,0 +1,568 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-53648471-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-53596285-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-53649335-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61715940-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-66676840-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-43366319-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Taiwan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-61865286-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care ",
+        "Custom_dimension5": "Taiwan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Philiphines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-51190467-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Philiphines",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "China",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-50789271-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "China",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-56432964-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-56432964-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-66727845-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Hong Kong",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-60610388-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Hong Kong",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Ukraine",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-71160144-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Ukraine",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-49476671-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Azerbaijan",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-62401437-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Azerbaijan",
+        "Custom_dimension6": "Digital 2.0 "
+      },
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-51248253-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Soco",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-116178497-4",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Soco",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Pakistan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-145352452-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Hair Care",
+        "Custom_dimension5": "Pakistan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Maghreb",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-116178497-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Maghreb",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bangladesh",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-86436726-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bangladesh",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Kazakhstan",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-60679440-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Kazakhstan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Iran",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-116178497-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Hair Care",
+        "Custom_dimension5": "Iran",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-62232985-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-49752699-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-13091200-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Clear",
+        "Custom_dimension3": "Clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-56517042-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "clear",
+        "Custom_dimension3": "clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-67463453-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "clear",
+        "Custom_dimension3": "clear",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "malaysia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-my,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-clear-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care ",
+        "eVar4": "taiwan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-tw,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "philiphines",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "china",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-cn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-clear-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "hong kong",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-hk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "ukraine",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-ua,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "italy",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-it,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "azerbaijan",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-clear-az,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "greece",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-gr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "soco",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unileverlatam-clear-soco,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "hair care",
+        "eVar4": "pakistan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-pk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "maghreb",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-clear-mb,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "bangladesh",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-clear-bd,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "kazakhstan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-kz,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "hair care",
+        "eVar4": "iran",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-ir,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-clear-pt,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "paraguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-clear-py,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-clear-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "clear",
+        "eVar3": "clear",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-clear-us,unileverna-global-allbrands"
+      }
+    ]
+  }
+}

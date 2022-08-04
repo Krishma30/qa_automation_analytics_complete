@@ -1,0 +1,1353 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42029938-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Mexico",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42480838-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Mexico",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-41859075-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Turkey",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42827703-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Turkey",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Romania",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42649734-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Romania",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Colombia",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-92080434-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Colombia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Malaysia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-89687227-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Malaysia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42716949-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-46136664-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Chile",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42739975-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Chile",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Australia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42462330-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Australia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Netherland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42473769-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Netherland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42640365-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42630024-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42030041-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Peru",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42739567-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Peru",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Sweden",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42723438-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Sweden",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Iran",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-89881321-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Iran",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Hungary",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42683169-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Hungary",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Taiwan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-85788853-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Taiwan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "South Africa",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42551492-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "South Africa",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Hong Kong",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-96147265-2",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Hong Kong",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Singapore",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-90476362-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Singapore",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Serbia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42716043-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Serbia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Uruguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42684935-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Uruguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bulgaria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42723161-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bulgaria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Portugal",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42652919-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Portugal",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Finland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42630418-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Finland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Pakistan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-68630875-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Pakistan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "New Zealand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42737496-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "New Zealand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42032020-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium France",
+        "Custom_dimension6": "Digital 2.0",
+        
+      },
+      {
+        "country": "Austria",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42017188-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Austria",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Paraguay",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42654107-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Paraguay",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Slovakia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42670872-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Slovakia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Czech republic",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42623276-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Czech republic",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Denmark",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42629725-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Denmark",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium Netherland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42032020-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium Netherland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Norway",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-31158519-31",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Norway",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bolivia",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42738177-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bolivia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Puerto Rico",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-101838254-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Puerto Rico",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Croatia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42706656-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Croatia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Israel",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-89855255-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Israel",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Iran",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-89881321-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Iran",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Switzerland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42652820-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Switzerland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bangladesh",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-92343924-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bangladesh",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Lebonon",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-101027547-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Lebonon",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Bosnia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42684146-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Bosnia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Slovenia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42687213-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Slovenia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-37693165-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Russia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42553279-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Russia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Argentina",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-42027724-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Argentina",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Canada",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-41859075-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Canada",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42533562-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "US",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-37693165-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "US",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-31158519-8",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Philippines",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42488515-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Philippines",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Japan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42560702-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Japan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Egypt",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-99690650-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Egypt",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Indonesia",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42533170-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Indonesia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Ukraine",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42718153-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Ukraine",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Germany",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42554377-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Germany",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42532855-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Saudi Arabia",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42532855-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Saudi Arabia",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "India",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-42551489-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "India",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Greece",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41887682-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Greece",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Italy",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-42460453-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Dove",
+        "Custom_dimension3": "Dove",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Italy",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "mexico",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-mx,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-dove-ca,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "turkey",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-tr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "romania",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-ro,unilever-global-allbrands"
+      },
+      {
+        "country": "colombia",
+        "url": "assets.adobedtm.com/launch-en44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "ua-92080434-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "colombia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-co,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "malaysia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-my,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "chile",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-cl,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "australia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-au,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "netherland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-nl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "greece",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-gr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-es,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "peru",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-pe,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "sweden",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-se,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "iran",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-ir,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "hungary",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-hu,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "taiwan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-tw,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "south africa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-za,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "hong kong",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-hk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "singapore",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-sg,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "serbia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-rs,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "uruguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-uy,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "bulgaria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-bg,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "portugal",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-pt,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "finland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-fi,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "pakistan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-pk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "new zealand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-nz,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "belgium france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-be,unilever-global-allbrands"
+      },
+      {
+        "country": "austria",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-42017188-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "austria",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-at,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "paraguay",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-py,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "slovakia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-sk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "czech republic",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-dove-cz,unilever-global-allbrands"
+      },
+      {
+        "country": "denmark",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-42629725-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "denmark",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-dk,unilever-global-allbrands"
+      },
+      {
+        "country": "belgium netherland",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-42032020-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "belgium netherland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "norway",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-no,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "bolivia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-bo,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "puerto rico",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-cif-vim-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "croatia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-hr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "israel",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-il,unileverapac-global-allbrands"
+      },
+      {
+        "country": "iran",
+        "url": "assets.adobedtm.com/launch-en60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "ua-89881321-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "iran",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-ir,unileverapac-global-allbrands"
+      },
+      {
+        "country": "switzerland",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-42652820-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "switzerland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-ch,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "bangladesh",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-bd,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "lebonon",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-lb,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "bosnia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-ba,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "slovenia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-si,unilever-global-allbrands"
+      },
+      {
+        "country": "us",
+        "url": "assets.adobedtm.com/launch-en0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "ua-37693165-5",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-dove-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "russia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-ru,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "argentina",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-dove-ar,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "canada",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-dove-ca,unileverna-global-allbrands"
+      },
+      {
+        "country": "poland",
+        "url": "assets.adobedtm.com/launch-en2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "ua-42533562-1",
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "poland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-pl,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "us",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-dove-us,unileverna-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "philippines",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-ph,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "japan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-jp,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "egypt",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-eg,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "indonesia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-id,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "ukraine",
+        "eVar72": "digital 2.0 ",
+        "report_suites": "unilever-dove-ua,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "germany",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-de,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "saudi arabia",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-sa,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "india",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dove-in,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "greece",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-gr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "dove",
+        "eVar3": "dove",
+        "eVar5": "personal care",
+        "eVar4": "italy",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dove-it,unilever-global-allbrands"
+      }
+    ]
+  }
+}

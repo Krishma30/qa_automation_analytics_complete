@@ -1,0 +1,50 @@
+{
+    "profiles": {
+      "google": [
+      
+                {
+          "country": "US",
+          "url": "assets.adobedtm.com/launch-EN8e211b594764474583ce4c8412004e91.min.js",
+          "tid": "UA-72831476-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "All Things Hair",
+          "Custom_dimension3": "Multibrands",
+          "Custom_dimension4": "Personal Care",
+          "Custom_dimension5": "United States",
+          "Custom_dimension6": "Non-D2"
+        },
+       {
+       "country": "UK",
+        "url": "assets.adobedtm.com/launch-EN8e211b594764474583ce4c8412004e91.min.js",
+        "tid": "UA-72831476-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "All Things Hair",
+        "Custom_dimension3": "Multibrands",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "United Kingdom",
+        "Custom_dimension6": "Non-D2"
+      }
+      ],
+      "adobe": [
+        {
+        "eVar1": "Brand Site",
+        "eVar2": "All Things Hair",
+        "eVar3": "Multibrands",
+        "eVar4": "United States",
+        "eVar5": "Personal Care",
+        "eVar72": "Non-D2",
+        "report_suites": "unileverna-allthingshair-us,unileverna-global-allbrands"
+      },
+        {
+          "eVar1": "Brand Site",
+          "eVar2": "All Things Hair",
+          "eVar3": "Multibrands",
+          "eVar4": "United Kingdom",
+          "eVar5": "Personal Care",
+          "eVar72": "Non-D2",
+          "report_suites": "unilever-multibrands-allthingshair-uk,unilever-global-allbrands"
+        }
+               
+      ]
+    }
+  }

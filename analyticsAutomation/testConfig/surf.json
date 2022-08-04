@@ -1,0 +1,108 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "United Kingdom",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-47028861-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Surf",
+        "Custom_dimension3": "Surf",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "United Kingdom",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "United Kingdom",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-47028861-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Surf",
+        "Custom_dimension3": "Surf",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "United Kingdom",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Pakistan",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-38512176-3",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Surf",
+        "Custom_dimension3": "Surf",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Pakistan",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Sri Lanka",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-38512176-11",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Surf",
+        "Custom_dimension3": "Surf",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Sri Lanka",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-77712805-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Surf",
+        "Custom_dimension3": "Surf",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "surf",
+        "eVar3": "surf",
+        "eVar5": "home care",
+        "eVar4": "united kingdom",
+        "eVar72": "digital 2.0",
+        "report_suites": " unilever-surf-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "surf",
+        "eVar3": "surf",
+        "eVar5": "home care",
+        "eVar4": "united kingdom",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-dirtisgood-surf-uk,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "surf",
+        "eVar3": "surf",
+        "eVar5": "home care",
+        "eVar4": "pakistan",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-surfexcel-pk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "surf",
+        "eVar3": "surf",
+        "eVar5": "home care",
+        "eVar4": "sri lanka",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-dig-surfexcel-lk,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "surf",
+        "eVar3": "surf",
+        "eVar5": "home care",
+        "eVar4": "poland",
+        "eVar72": "digital 2.0",
+        "report_suites": " unilever-dirtisgood-surf-pl,unilever-global-allbrands"
+      }
+    ]
+  }
+}

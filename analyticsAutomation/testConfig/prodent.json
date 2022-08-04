@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Netherlands",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-25896932-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Prodent",
+        "Custom_dimension3": "Prodent",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Netherlands",
+        "Custom_dimension6": "Digital 2.0"
+        
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand Site",
+        "eVar2": "prodent",
+        "eVar3": "prodent",
+        "eVar4": "netherlands",
+        "eVar5": "personal care",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-signal-prodent-nl,unilever-global-allbrands"
+      }
+    ]
+  }
+}

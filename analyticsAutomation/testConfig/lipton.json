@@ -1,0 +1,328 @@
+{
+    "profiles": {
+      "google": [
+        {
+          "country": "US",
+          "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+          "tid": "UA-34294959-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "US",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Saudi Arabia",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-52505990-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Saudi Arabia",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Belgium",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-60839035-5",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Belgium",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Belgium",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-60839035-5",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Belgium",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "chile",
+          "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+          "tid": "UA-10233706-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshments",
+          "Custom_dimension5": "chile",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "FR",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-12327687-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "FR",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Netherlands",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-44055087-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Netherlands",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Portugal",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-61672448-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Portugal",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Italy",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-40977322-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshments",
+          "Custom_dimension5": "Italy",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Romania",
+          "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+          "tid": "UA-34294959-7",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshments",
+          "Custom_dimension5": "Romania",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Saudi Arabia",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-52505990-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Saudi Arabia",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Turkey",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-29466304-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Turkey",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Russia",
+          "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+          "tid": "UA-41065847-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "Lipton",
+          "Custom_dimension3": "Lipton",
+          "Custom_dimension4": "Refreshment",
+          "Custom_dimension5": "Russia",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Egypt",
+          "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+          "tid": "UA-52646500-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "lipton",
+          "Custom_dimension3": "lipton",
+          "Custom_dimension4": " Refreshments",
+          "Custom_dimension5": "Egypt",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Egypt",
+          "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+          "tid": "UA-52646500-1",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "lipton",
+          "Custom_dimension3": "lipton",
+          "Custom_dimension4": " Refreshments",
+          "Custom_dimension5": "Egypt",
+          "Custom_dimension6": "Digital 2.0"
+        },
+        {
+          "country": "Brand",
+          "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+          "tid": "UA-68318763-2",
+          "Custom_dimension1": "Brand Site",
+          "Custom_dimension2": "lipton",
+          "Custom_dimension3": "lipton",
+          "Custom_dimension4": "Personal",
+          "Custom_dimension5": "Brand",
+          "Custom_dimension6": "Site"
+        }
+      ],
+      "adobe": [
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "us",
+          "eVar72": "digital 2.0",
+          "report_suites": "unileverna-lipton-us,unileverna-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "saudi arabia",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-sa,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "belgium",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-be,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "belgium",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-be,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshments",
+          "eVar4": "chile",
+          "eVar72": "digital 2.0",
+          "report_suites": "unileverlatam-lipton-cl,unileverlatam-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "fr",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-fr,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "netherlands",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-nl,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "portugal",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-liptoninternatio-lipton-pt,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshments",
+          "eVar4": "italy",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-liptoninternatio-lipton-it,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshments",
+          "eVar4": "romania",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-ro,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "saudi arabia",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-sa,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "turkey",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-tr,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "refreshment",
+          "eVar4": "russia",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-lipton-ru,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": " refreshments",
+          "eVar4": "egypt",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-liptoninternatio-lipton-eg,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": " refreshments",
+          "eVar4": "egypt",
+          "eVar72": "digital 2.0",
+          "report_suites": "unilever-liptoninternatio-lipton-eg,unilever-global-allbrands"
+        },
+        {
+          "eVar1": "brand site",
+          "eVar2": "lipton",
+          "eVar3": "lipton",
+          "eVar5": "personal",
+          "eVar4": "brand",
+          "eVar72": "site",
+          "report_suites": "unileverapac-lipton-au,unileverapac-global-allbrands"
+        }
+      ]
+    }
+  }

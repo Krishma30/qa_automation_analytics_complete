@@ -1,0 +1,88 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "Thailand",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-75446004-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Comfort",
+        "Custom_dimension3": "Comfort",
+        "Custom_dimension4": "HomeCare",
+        "Custom_dimension5": "Thailand",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Brazil",
+        "url": "assets.adobedtm.com/launch-EN44f54226de934d4eb94899b7090e7c11.min.js",
+        "tid": "UA-16115821-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Comfort",
+        "Custom_dimension3": "Comfort",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Brazil",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Vietnam",
+        "url": "assets.adobedtm.com/launch-EN60c495b1095d4bcdac2071da23e460e7.min.js",
+        "tid": "UA-71710333-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Comfort",
+        "Custom_dimension3": "Comfort",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "Vietnam",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "UK",
+        "url": "assets.adobedtm.com/launch-ENfabe4aff7fd348db959a23445bf6f6da.min.js",
+        "tid": "UA-70749698-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Comfort",
+        "Custom_dimension3": "Comfort",
+        "Custom_dimension4": "Home Care",
+        "Custom_dimension5": "UK",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "comfort",
+        "eVar3": "comfort",
+        "eVar5": "homecare",
+        "eVar4": "thailand",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-comfort-th,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "comfort",
+        "eVar3": "comfort",
+        "eVar5": "home care",
+        "eVar4": "brazil",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverlatam-comfort-br,unileverlatam-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "comfort",
+        "eVar3": "comfort",
+        "eVar5": "home care",
+        "eVar4": "vietnam",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverapac-comfort-vn,unileverapac-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "comfort",
+        "eVar3": "comfort",
+        "eVar5": "home care",
+        "eVar4": "uk",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-comfort-uk,unilever-global-allbrands"
+      }
+    ]
+  }
+}

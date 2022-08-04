@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "USA",
+        "url": "assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js",
+        "tid": "UA-148563887-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Re-Fresh",
+        "Custom_dimension3": "Re-Fresh",
+        "Custom_dimension4": "Hair Care",
+        "Custom_dimension5": "USA",
+        "Custom_dimension6": "Digital 2.0"
+        
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "re-fresh",
+        "eVar3": "re-fresh",
+        "eVar5": "hair care",
+        "eVar4": "usa",
+        "eVar72": "digital 2.0",
+        "report_suites": "unileverna-refresh-us,unileverna-global-allbrands"
+      }
+    ]
+  }
+}

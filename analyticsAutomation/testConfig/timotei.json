@@ -1,0 +1,108 @@
+{
+  "profiles": {
+    "google": [
+      {
+        "country": "France",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-82386037-1",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Timotei",
+        "Custom_dimension3": "Timotei",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "France",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Spain",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41153344-4",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Timotei",
+        "Custom_dimension3": "Timotei",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Spain",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41153344-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Timotei",
+        "Custom_dimension3": "Timotei",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Belgium",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41153344-6",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Timotei",
+        "Custom_dimension3": "Timotei",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Belgium",
+        "Custom_dimension6": "Digital 2.0"
+      },
+      {
+        "country": "Poland",
+        "url": "assets.adobedtm.com/launch-EN2c350003249b4bada6fd491fb1b25fb0.min.js",
+        "tid": "UA-41153344-5",
+        "Custom_dimension1": "Brand Site",
+        "Custom_dimension2": "Timotei",
+        "Custom_dimension3": "Timotei",
+        "Custom_dimension4": "Personal Care",
+        "Custom_dimension5": "Poland",
+        "Custom_dimension6": "Digital 2.0"
+      }
+    ],
+    "adobe": [
+      {
+        "eVar1": "brand site",
+        "eVar2": "timotei",
+        "eVar3": "timotei",
+        "eVar5": "personal care",
+        "eVar4": "france",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-timotei-fr,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "timotei",
+        "eVar3": "timotei",
+        "eVar5": "personal care",
+        "eVar4": "spain",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-timotei-es,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "timotei",
+        "eVar3": "timotei",
+        "eVar5": "personal care",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-timotei-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "timotei",
+        "eVar3": "timotei",
+        "eVar5": "personal care",
+        "eVar4": "belgium",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-timotei-be,unilever-global-allbrands"
+      },
+      {
+        "eVar1": "brand site",
+        "eVar2": "timotei",
+        "eVar3": "timotei",
+        "eVar5": "personal care",
+        "eVar4": "poland",
+        "eVar72": "digital 2.0",
+        "report_suites": "unilever-timotei-pl,unilever-global-allbrands"
+      }
+    ]
+  }
+}
